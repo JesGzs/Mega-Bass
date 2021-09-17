@@ -120,7 +120,7 @@ const Monitor = require('ping-monitor');
  
 keepAlive();
 const monitor = new Monitor({
-    website: 'https://Monitor-XD.jesgzs.repl.co',
+    website: 'TU MONITOR LINK',
     title: 'Principal',
     interval: 15 // minutes
 });
